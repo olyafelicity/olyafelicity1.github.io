@@ -1,4 +1,4 @@
-[Лабораторная работа 1](https://fxkk44.github.io/#lr1)
+[Лабораторная работа 1](https://olyafelicity.github.io/#labrab1)
 
 [Лабораторная работа 2](https://fxkk44.github.io/#lr2)
 
