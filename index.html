@@ -305,10 +305,9 @@
         <div class="col-12 font-light">Лабораторная работа 3</div>
 	       <span class="font-black"><hr>
 	 <img src="img/лаб.jpg" /><br/><br/><br/>
-		       <body onload="startGame()">
-<canvas id="canvas" width="400" height="400">
-</canvas>
-  <script>
+		      <br>
+<body onload="startGame()">
+<script>
 var myGamePiece;
 var myObstacles = [];
 var myScore;
@@ -420,17 +419,16 @@ function accelerate(n) {
     myGamePiece.gravity = n;
 }
 </script>
-<br>
-<button onmousedown="accelerate(-0.1)"
-        onmouseup="accelerate(0.025)"
+<div class="col-xs-12" style="height:260px;"></div>
+<button onmousedown="accelerate(-0.2)"
+        onmouseup="accelerate(0.05)"
         style="vertical-align: middle"
-        align="center"
->GONNA GET UP !!!</button>
-<p>Press the button<br/>
-    @<br/>
-Get the mark!</p>
-    
-   <h3> 1. Прикладная задача и основные требования к личной SPA</h3>
+>ПОДНИМАТЬ ВВЕРХ</button>
+<p>Нажимайте на кнопку<br/>
+Что бы получать очки!</p>
+</body>
+    <h3>1. Прикладная задача и основные требования к личной SPA</h3>
+
 <ul>
     <li>постоянная смена препятствий для прохождения;</li>
     <li>кнопки для управления;</li>
@@ -438,6 +436,7 @@ Get the mark!</p>
 </ul>
     
     <h3>2. Пользовательская история</h3>
+
 <ul>
     <li>как пользователю, мне нужно простое приложение для развлечения;</li>
     <li>как пользователь, я хочу интуитивно понятный интерфейс;</li>
