@@ -4,7 +4,7 @@
 
 [Лабораторная работа 3](https://olyafelicity.github.io/#labrab3)
 
-Лабораторная работа 4
+[Лабораторная работа 4](https://olyafelicity.github.io/#labrab4)
 
 Лабораторная работа 5
 
