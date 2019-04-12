@@ -6,8 +6,4 @@
 
 [Лабораторная работа 4](https://olyafelicity.github.io/#labrab4)
 
-Лабораторная работа 5
-
-Лабораторная работа 6
-
-Лабораторная работа 7
+[Лабораторные работы 5-7](https://olyafelicity.github.io/#labrab5)
