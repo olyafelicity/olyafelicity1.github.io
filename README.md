@@ -7,3 +7,5 @@
 [Лабораторная работа 4](https://olyafelicity.github.io/#labrab4)
 
 [Лабораторные работы 5-7](https://olyafelicity.github.io/#labrab5)
+
+[Реферат](https://github.com/stankin/design-2019/wiki/exam_01)
